@@ -26,7 +26,3 @@ Shift + Reload Button in Netscape for Windows, Option + Reload Button in Netscap
 
 include("/home/mediarch/foot.php");
 ?>
-
-
-
-
